@@ -9,3 +9,15 @@ What I learned with these projects:
 * Preventing deadlocks
 * Some classic synchronization problems:
     * Producer/consumer
+    * Readers/writers
+    * Synchronization barrier
+    * Cigarette smokers
+
+What I used in these projects:
+* Signals
+* Pipe and FOFO
+* Semaphores
+* Shared Memory
+* Mutexes
+* Condition Variables
+* Sockets
