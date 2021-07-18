@@ -14,10 +14,7 @@ This repository contains the projects I have done for the system programming cou
     * Readers/writers
     * Synchronization barrier
     * Cigarette smokers
-  
-</br>
-</br>
-</br>
+
 **What I used in these projects:**
 * Signals
 * Pipe and FOFO
