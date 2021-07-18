@@ -2,7 +2,7 @@
 
 This repository contains the projects I have done for the system programming course.  
   
-What I learned with these projects:
+**What I learned with these projects:**
 * The concepts of process and thread.
 * IPC (inter-process communication)
 * Difference between process and thread
@@ -13,8 +13,9 @@ What I learned with these projects:
     * Readers/writers
     * Synchronization barrier
     * Cigarette smokers
-
-What I used in these projects:
+  
+  
+**What I used in these projects:**
 * Signals
 * Pipe and FOFO
 * Semaphores
